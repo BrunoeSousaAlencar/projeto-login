@@ -1,11 +1,9 @@
 @charset "UTF-8";
 
 :root{
-    /*
-      pelata de cores
-      verde: #49a09d
-      lilás: #5f2c82
     
-    */
-
+      /*pelata de cores*/
+      --verde: #49a09d;
+      --lilás: #5f2c82;
+      
 }
