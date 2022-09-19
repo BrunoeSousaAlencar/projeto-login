@@ -3,7 +3,7 @@
 :root{
     
       /*pelata de cores*/
-      --verde: #49a09d;
+      --orange: #D73400;
       --lilás: #5f2c82;
 
 }
@@ -16,7 +16,7 @@
 }
 
 body, html{
-    background-color: var(--lilás);
+    background-color: var(--orange) ;
     height: 100vh;
     width: 100vw;
 }
